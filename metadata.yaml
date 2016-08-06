@@ -1,0 +1,30 @@
+_repo: De-kleine-Johannes_10819
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eeden, Frederik van
+    aliases:
+    - Eeden, Frederik Willem van
+    - Eeden, Frederick van
+    - Paradijs, Cornelis
+    - Van Eeden, Frederik
+    birthdate: 1860
+    deathdate: 1932
+    gutenberg_agent_id: '2981'
+    url: http://www.gutenberg.org/2009/agents/2981
+    wikipedia: http://en.wikipedia.org/wiki/Frederik_van_Eeden
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10819'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dutch fiction'
+- !lcc 'PT'
+- GITenberg
+title: De kleine Johannes
+url: http://www.gutenberg.org/ebooks/10819
